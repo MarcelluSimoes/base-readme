@@ -1,14 +1,12 @@
-# Big Game Survey 
+# Custom Game List 
 [![NPM](https://img.shields.io/badge/license-MIT-green
 )](https://github.com/MarcelluSimoes/base-readme/blob/main/LICENSE) 
 
 # Sobre o projeto
 
-https://wmazoni-sds1.netlify.app
+Custom Game List é uma aplicação back end com possível implementação com front end, construída durante a 2ª edição da **Semana DevSuperior** (#sds2), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
-Big Game Survey é uma aplicação full stack web e mobile construída durante a 1ª edição da **Semana DevSuperior** (#sds1), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
-
-A aplicação consiste em uma pesquisa de preferência de games, onde os dados são coletados no app mobile, e depois são listados no app web, que também apresenta um dashboard com gráficos baseados nestes dados.
+A aplicação consiste em Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas purus tellus, pretium ut mattis sed, dignissim quis tortor. Quisque elementum semper auctor. Vestibulum eu lacus in tortor tempor fermentum. Nam in feugiat nisi. Sed non velit a sapien congue mollis. Donec malesuada sem vitae purus ornare porttitor. Curabitur lobortis feugiat magna, a suscipit magna maximus sit amet. Sed mollis elementum risus, eget pellentesque turpis hendrerit eget. Nulla congue dolor turpis, eget rutrum massa elementum eget.
 
 ## Layout web
 
