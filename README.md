@@ -10,10 +10,9 @@ Big Game Survey é uma aplicação full stack web e mobile construída durante a
 
 A aplicação consiste em uma pesquisa de preferência de games, onde os dados são coletados no app mobile, e depois são listados no app web, que também apresenta um dashboard com gráficos baseados nestes dados.
 
-## Layout mobile
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
-
 ## Layout web
+
+Colocar os assets de layout em pasta do projeto 
 ![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
 
 ![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
@@ -24,56 +23,37 @@ A aplicação consiste em uma pesquisa de preferência de games, onde os dados s
 # Tecnologias utilizadas
 ## Back end
 - Java
-- Spring Boot
+- Spring Boot (STS) 
 - JPA / Hibernate
 - Maven
-## Front end
-- HTML / CSS / JS / TypeScript
-- ReactJS
-- React Native
-- Apex Charts
-- Expo
+
+## Validação
+- H2
+- Postman
+
 ## Implantação em produção
-- Back end: Heroku
-- Front end web: Netlify
+- Back end: Docker
 - Banco de dados: Postgresql
 
 # Como executar o projeto
 
 ## Back end
-Pré-requisitos: Java 11
+Pré-requisitos: Java 21
 
 ```bash
 # clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+
 
 # entrar na pasta do projeto back end
-cd backend
+
 
 # executar o projeto
-./mvnw spring-boot:run
-```
 
-## Front end web
-Pré-requisitos: npm / yarn
-
-```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
-
-# entrar na pasta do projeto front end web
-cd front-web
-
-# instalar dependências
-yarn install
-
-# executar o projeto
-yarn start
 ```
 
 # Autor
 
-Wellington Mazoni de Andrade
+Marcellus Simões
 
-https://www.linkedin.com/in/wmazoni
+www.linkedin.com/in/marcellus-simoes-3b6b6b8
 
