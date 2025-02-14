@@ -1,6 +1,6 @@
 # Big Game Survey 
 [![NPM](https://img.shields.io/badge/license-MIT-green
-)](https://github.com/devsuperior/sds1-wmazoni/blob/master/LICENSE) 
+)](https://github.com/MarcelluSimoes/base-readme/blob/main/LICENSE) 
 
 # Sobre o projeto
 
